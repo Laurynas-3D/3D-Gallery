@@ -1,1 +1,1 @@
-# 3D-Gallery
+# 3D Visualization Gallery
