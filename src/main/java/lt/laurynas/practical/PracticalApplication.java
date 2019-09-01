@@ -17,6 +17,9 @@ public class PracticalApplication extends SpringBootServletInitializer {
         return "Hello world!";
     }
 
+    @RequestMapping("/gallery")
+
+
     public static void main(String[] args) {
         SpringApplication.run(PracticalApplication.class, args);
     }
