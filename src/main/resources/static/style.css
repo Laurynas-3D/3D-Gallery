@@ -1,6 +1,11 @@
 /*<style type="text/css">*/
 /*.tg  {border-collapse:collapse;border-spacing:0;}*/
 /*.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}*/
-.mygrid-style1 {font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.mygrid {align-items: left}
+
+.mygrid-style1 {font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:2px 2px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:ligh;}
 .mygrid-style1 {border-color:inherit;text-align:left;vertical-align:top}
+
+.mygrid-style2 {border-bottom-color: transparent;padding:4px}
+
 /*</style>*/
