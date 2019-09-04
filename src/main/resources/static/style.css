@@ -1,7 +1,14 @@
 
 h2 {
+    
     text-align: center;
-            
+    font-family: 'Racing Sans One', cursive;
+    font-size: 36px
+                
+}
+
+body{
+    background-color: #ffffff
 }
 
 
@@ -26,4 +33,6 @@ h2 {
     border-bottom-color: transparent;
     padding:8px
 }
+
+
 
