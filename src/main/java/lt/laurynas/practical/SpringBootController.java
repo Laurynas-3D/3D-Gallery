@@ -10,7 +10,6 @@ public class SpringBootController {
     @RequestMapping("/gal")
   //  @ResponseBody
     public String home() {
-
         return "gallery.html";
     }
 }
